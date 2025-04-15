@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-core
+langchain-comunity
+ollama
+chromadb
+pdfplumber
+unstructured[all-docs]
+langchain-text-splitters
