@@ -28,8 +28,14 @@ TEHNOLGIES USED
 NOTE
 
 To make sure this app works you need to have OLLAMA installed
+After you installed all the libaries to run this app type the following command
+
+streamlit run and the name of your python file
 
 
 FUTURE FEATURES
 1) Upload PDF files direct from UI
 2) Option to save the istoric
+
+
+
